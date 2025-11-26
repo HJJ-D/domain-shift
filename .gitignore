@@ -9,6 +9,8 @@
 # Allow src folder and all its contents
 !src/
 !src/**
+!train.py
+!smallDataset.ipynb
 
 # Python cache
 __pycache__/
