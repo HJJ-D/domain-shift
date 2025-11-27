@@ -36,6 +36,7 @@ domain-shift/
 ├── runs/                  # Training outputs (auto-generated)
 ├── .gitignore
 ├── README.md
+├── train.py
 └── requirements.txt
 ```
 
