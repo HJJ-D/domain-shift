@@ -307,18 +307,6 @@ If you use this code in your research, please cite:
 }
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub or contact [your-email@example.com].
-
 ## 🙏 Acknowledgments
 
 - PyTorch team for the deep learning framework
